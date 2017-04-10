@@ -1,1 +1,340 @@
-bc
+@font-face {
+    font-family: 'Boycott';
+    src: url('fonts/boycott-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'bebas';
+    src: url('fonts/bebas-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1{ 
+	font-family:'Boycott', sans-serif;
+}
+
+h2{ 
+	font-family:'Boycott', sans-serif;
+	color: white;
+}
+
+
+p{ 
+	font-family:'bebas', sans-serif;
+}
+.cart-link a {
+	color: white;
+}
+.cart-link a:hover {
+	color: grey;
+}
+
+
+
+.nav { 
+	font-family:'bebas', sans-serif;
+}
+
+.nav a {
+	color: white;
+}
+
+.nav a:hover {
+	color: grey;
+}
+
+
+
+body {
+	background-color: #000000;
+	color: #ffffff;
+}
+p {
+	color: #ffffff;
+	height: auto;
+	width: 250px;
+}
+
+
+h2 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 15px;
+	text-decoration: bold;
+}
+h4 {
+	font-size: 15px;
+	text-decoration: bold;
+}
+h5 {
+	font-size: 15px;
+	text-decoration: bold;
+}
+h6 {
+	font-size: 15px;
+	text-decoration: bold;
+}
+
+footer {
+	margin-top: 200px;
+	font-family: 'bebas';
+}
+.image-border {
+	border-width: 1px;
+	border-color: #ffffff;
+}
+
+.beatshow {
+	width: 750px;
+	height: auto;
+}
+
+.whippin {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom:  15px;
+}
+.nosleep {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.watchout {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.pimpin {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.sogone {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.racks {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.onme {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.doses {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.offme {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.copyme {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.allme {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.aceofspade {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.mystory {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.party {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.scarface {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.rockstar {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.diamonds {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.rich {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.drippin {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.igotit {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.banger {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.boomin {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.dark {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.turntup {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.pumpin {
+	width: 350px;
+	height: auto;
+	font-family: 'boycott';
+	margin-bottom: 15px;
+}
+.whippin-tag {
+	font-family: 'bebas';
+}
+.pimpin-tag {
+	font-family: 'bebas';
+}
+.watchout-tag {
+	font-family: 'bebas';
+}
+.nosleep-tag {
+	font-family: 'bebas';
+}
+.sogone-tag {
+	font-family: 'bebas';
+}
+.racks-tag {
+	font-family: 'bebas';
+}
+.onme-tag {
+	font-family: 'bebas';
+}
+.doses-tag {
+	font-family: 'bebas';
+}
+.offme-tag {
+	font-family: 'bebas';
+}
+.copyme-tag {
+	font-family: 'bebas';
+}
+.allme-tag {
+	font-family: 'bebas';
+}
+.aceofspade-tag {
+	font-family: 'bebas';
+}
+.mystory-tag {
+	font-family: 'bebas';
+}
+.party-tag {
+	font-family: 'bebas';
+}
+.scarface-tag {
+	font-family: 'bebas';
+}
+.rockstar-tag {
+	font-family: 'bebas';
+}
+.diamonds-tag {
+	font-family: 'bebas';
+}
+.rich-tag {
+	font-family: 'bebas';
+}
+.drippin-tag {
+	font-family: 'bebas';
+}
+.igotit-tag {
+	font-family: 'bebas';
+}
+.banger-tag {
+	font-family: 'bebas';
+}
+.boomin-tag {
+	font-family: 'bebas';
+}
+.dark-tag {
+	font-family: 'bebas';
+}
+.turntup-tag {
+	font-family: 'bebas';
+}
+.pumpin-tag {
+	font-family: 'bebas';
+}
+.nav {
+	margin: 25px 0;
+}
+
+
+
+.nav .nav-item {
+	text-align: center;
+}
+
+.nav .nav-item a {
+	text-align: center!important;
+	padding-top: 20px;
+}
+
+.nav-item .logo {
+	margin: 0 auto;
+}
